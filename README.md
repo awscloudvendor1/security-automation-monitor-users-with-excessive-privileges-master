@@ -4,8 +4,6 @@
 
    ![Security Automation: Monitor User with Excessive Privileges](images/miztiik_github_aws_config_monitor_user_with_excessive_privileges.png)
 
-  Follow this article in **[Youtube](https://youtube.com/c/ValaxyTechnologies)**
-
 1. ## SetUp Dev Environment
 
     Setup the custom rule. Make sure you have `AWS CLI` profile configured. You should have at [minimum these permissions](https://github.com/awslabs/aws-config-rdk/blob/master/policy/rdk-minimum-permissions.json) before executing below commands
